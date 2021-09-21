@@ -1,24 +1,34 @@
-# README
+# <ここにアプリ名を入力>
+偉人の名言
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+偉人の名言サイト
 
-Things you may want to cover:
+### サイトテーマ
+偉人の名言
 
-* Ruby version
+### テーマを選んだ理由
+本当に辛いとき自分は偉人の名言が思い浮かんだ。それが支えになったので、辛いときに自分奮い立たせてくれる名言を共有できるサイトを製作しようと思った。
 
-* System dependencies
+### ターゲットユーザ
+老若男女全員楽しめるが主なターゲットは自分と同じような世代の男性。挑戦するときの支えになると思う。
 
-* Configuration
+### 主な利用シーン
+挑戦するとき、失敗したとき、奮い立たせるとき。
 
-* Database creation
+## 設計書
+データベース設計、テーブル設計、アプリケーション詳細設計
 
-* Database initialization
+## チャレンジ要素一覧
+https://docs.google.com/spreadsheets/d/1Gi6CFZOvC2ldrgXOmHLV93ie3LciA7hrMOiziNZE-gs/edit#gid=0
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* How to run the test suite
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
